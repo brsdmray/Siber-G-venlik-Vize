@@ -8,7 +8,7 @@
 <debugging level="0"/>
 <hosthint><status state="up" reason="arp-response" reason_ttl="0"/>
 <address addr="192.168.1.1" addrtype="ipv4"/>
-<address addr="50:FF:20:2A:21:C2" addrtype="mac" vendor="Keenetic Limited"/>
+<address addr="50:FF:20:2A:21:C2" addrtype="mac" vendor="Asus Limited"/>
 <hostnames>
 </hostnames>
 </hosthint>
@@ -48,6 +48,6 @@
 </ports>
 <times srtt="1829" rttvar="1224" to="100000"/>
 </host>
-<runstats><finished time="1620664798" timestr="Mon May 10 19:39:58 2021" summary="Nmap done at Mon May 10 19:39:58 2021; 256 IP addresses (2 hosts up) scanned in 210.42 seconds" elapsed="210.42" exit="success"/><hosts up="2" down="254" total="256"/>
+<runstats><finished time="1620664798" timestr="Mon May 10 19:42:25 2021" summary="Nmap done at Mon May 10 19:39:58 2021; 256 IP addresses (2 hosts up) scanned in 210.42 seconds" elapsed="210.42" exit="success"/><hosts up="2" down="254" total="256"/>
 </runstats>
 </nmaprun>
