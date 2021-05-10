@@ -14,7 +14,7 @@
 </hosthint>
 <host starttime="1620664591" endtime="1620664792"><status state="up" reason="arp-response" reason_ttl="0"/>
 <address addr="192.168.1.1" addrtype="ipv4"/>
-<address addr="50:FF:20:2A:21:C2" addrtype="mac" vendor="Keenetic Limited"/>
+<address addr="50:FF:20:2A:21:C2" addrtype="mac" vendor="Asus Limited"/>
 <hostnames>
 </hostnames>
 <ports><extraports state="closed" count="996">
